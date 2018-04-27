@@ -1,0 +1,2 @@
+http://netpbm.sourceforge.net/doc/ppm.html
+https://stackoverflow.com/questions/2693631/read-ppm-file-and-store-it-in-an-array-coded-with-c
